@@ -1,3 +1,3 @@
 # Learning about Version Control
 ### Author: Ahmed Rizk
-Solving merge conflicts is easy!
+Solving merge conflicts is easy! trial
